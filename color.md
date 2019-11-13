@@ -4,7 +4,7 @@
 https://contrastrebellion.com/<br>
 https://www.viget.com/articles/color-contrast/<br>
 
-## meaning of colors:
+## Meaning of colors
 https://informationisbeautiful.net/visualizations/colours-in-cultures/<br>
 https://www.viget.com/articles/using-word-association-to-select-brand-colors/<br>
 
