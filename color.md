@@ -1,5 +1,14 @@
+# Color
 
-Links:
-https://www.viget.com/articles/color-contrast/
-https://www.viget.com/articles/tints-tones-shades/
-https://www.viget.com/articles/equating-color-and-transparency/
+## Contrast
+https://contrastrebellion.com/<br>
+https://www.viget.com/articles/color-contrast/<br>
+
+## meaning of colors:
+https://informationisbeautiful.net/visualizations/colours-in-cultures/<br>
+https://www.viget.com/articles/using-word-association-to-select-brand-colors/<br>
+
+## More
+https://www.viget.com/articles/tints-tones-shades/<br>
+https://www.viget.com/articles/equating-color-and-transparency/<br>
+https://www.viget.com/articles/naming-colors/<br>
